@@ -1,4 +1,4 @@
-# Simulating-a-Local-Network-Attack
+# Simulating a Local Network Attack
 This repository showcases a controlled Wi-Fi penetration-test scenario on a home network. The demonstration walks through an attacker’s workflow: discovering the wireless network, authenticating to it, enumerating connected hosts, and ultimately performing ARP spoofing to intercept a victim’s outbound traffic (Man-in-the-Middle).
 
 ##
